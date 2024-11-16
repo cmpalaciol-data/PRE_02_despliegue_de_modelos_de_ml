@@ -3,7 +3,7 @@
 
 
 #
-# Usage from command line: 
+# Usage from command line:
 # curl http://127.0.0.1:5000 -X POST -H "Content-Type: application/json" \
 # -d '{"bathrooms": "2", "bedrooms": "3", "sqft_living": "1800", \
 # "sqft_lot": "2200", "floors": "1", "waterfront": "1", "condition": "3"}'

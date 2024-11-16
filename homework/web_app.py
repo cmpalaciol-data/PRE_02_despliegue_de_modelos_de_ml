@@ -2,7 +2,7 @@
 
 import pickle
 
-import pandas as pd  # type: ignore 
+import pandas as pd  # type: ignore
 from flask import Flask, render_template, request  # type: ignore
 
 app = Flask(__name__)
